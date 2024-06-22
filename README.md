@@ -1,8 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2> 🧮 Created a BMI Calculator using React </h2>
+<h2> 🔄 Implemented useState of state management </h2>
+<h2> 🎨 Styled the App with Tailwind's Utility-First Classes </h2>
+<h2> 📊 Provides Information on BMI catagory based on BMI of the user </h2>
+<h2> ⌨️ Takes 2 inputs: First one as Weight in Kilograms & Second as Height in Meters </h2>
+<h2> 📟 Ouutput: BMI value along with insights about which physical catagory user belongs to </h2>
+<h2> 🚩 Currently Hosted at: https://bmi-calculator-react01.netlify.app/ </h2>
